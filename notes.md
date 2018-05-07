@@ -3,6 +3,8 @@
 1. 数据通信模型
   ![数据通信模型](/image/数据通信模型.png)
 
+  
+
 2. 模拟通信模型
   ![模拟通信模型](/image/模拟通信模型.png)
 
@@ -25,38 +27,42 @@
   >
   > 应用层：负责处理特定的应用程序细节。
 
+  
+
 6. 套接字socket（待完成）
 
-7. 进程间通信PCIe（待完成）
+    
+
+7. 进程间通信 PCI-E主线（待完成）
+
+    
 
 8. 时域信号
-
    > 数字信号：离散的
-   >
    > 模拟信号：平滑的，连续的
 
-![时域信号](/image/时域信号.png)
+   ![时域信号](/image/时域信号.png)
+
+   ![正弦波](/image/正弦波.png)
 
 9. 和差化积
+  ![和差化积](/image/和差化积.png)
 
-  $$sin\alpha + sin\beta = 2sin\frac{\alpha+\beta}{2} cos\frac{\alpha-\beta}{2}$$
-
-  $$sin\alpha - sin\beta = 2cos\frac{\alpha+\beta}{2} sin\frac{\alpha-\beta}{2}$$
-
-  $$cos\alpha + cos\beta = 2cos\frac{\alpha+\beta}{2} cos\frac{\alpha-\beta}{2}$$
-
-  $$cos\alpha - cos\beta = -2sin\frac{\alpha+\beta}{2 }sin\frac{\alpha-\beta}{2}$$
+  
 
 10. 积化和差
+  ![积化和差](/image/积化和差.png)
 
-   $$sin\alpha cos\beta = \frac{1}{2} [sin(\alpha + \beta) + sin(\alpha - \beta)]$$
-
-   $$cos\alpha sin\beta = \frac{1}{2} [sin(\alpha + \beta) - sin(\alpha - \beta)]$$
-
-   $$cos\alpha cos\beta = \frac{1}{2} [cos(\alpha + \beta) + cos(\alpha - \beta)]$$
-
-   $$sin\alpha sin\beta = -\frac{1}{2} [cos(\alpha + \beta) - cos(\alpha - \beta)]$$
+  
 
 11. 傅里叶（待完成）
 
-12. 信号能量和功率
+      
+
+12. 信号能量与功率
+
+      ![信号能量与功率](/image/信号能量与功率.png)
+
+    ![功率谱密度](/image/功率谱密度.png)
+
+13. 分贝
