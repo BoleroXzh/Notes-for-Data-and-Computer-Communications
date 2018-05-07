@@ -65,7 +65,7 @@
 
 ![分贝增益公式](/image/分贝增益公式.png)
 
-其中，G~dB~ = 增益（dB）；P~in~ = 输入功率值；P~out~ = 输出功率值；log~10~ = 以10为底的对数
+其中，G<sub>dB<sub> = 增益（dB）；P<sub>in<sub> = 输入功率值；P<sub>out<sub> = 输出功率值；log<sub>10<sub> = 以10为底的对数
 
 其他常见公式如下：
 
