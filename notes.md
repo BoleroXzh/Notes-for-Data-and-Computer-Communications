@@ -65,10 +65,14 @@
 
 ![分贝增益公式](/image/分贝增益公式.png)
 
-其中，G<sub>dB</sub> = 增益（dB）；P<sub>in</sub> = 输入功率值；P<sub>out</sub> = 输出功率值；log<sub>10</sub> = 以10为底的对数
+其中，*G<sub>dB</sub>* = 增益（*dB*）；*P<sub>in</sub>* = 输入功率值；*P<sub>out</sub>* = 输出功率值；*log<sub>10</sub> = *以*10*为底的对数
+
+![3dB带宽](/image/3dB带宽.png)
 
 其他常见公式如下：
 
 ![分贝常见公式](/image/分贝常见公式.png)
 
 # 奈奎斯特带宽
+
+对于多进制信号, 如*M*个信号电平，每个电平代表*log<sub>2</sub>M*比特, 奈奎斯特带宽公式：
